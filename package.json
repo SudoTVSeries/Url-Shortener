@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "A URL shortener developed with Express and React",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "URL",
+    "Express",
+    "Node",
+    "React"
+  ],
+  "author": "SudoTV",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
